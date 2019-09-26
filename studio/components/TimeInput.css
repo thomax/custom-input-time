@@ -1,0 +1,7 @@
+.timePicker {
+  border: 2px solid gold;
+
+  &:hover {
+    background: linear-gradient(rgba(255,110,199,.7),rgba(255,110,199,.7));
+  }
+}
